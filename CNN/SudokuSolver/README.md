@@ -6,11 +6,11 @@ Credits to https://www.youtube.com/watch?v=qOXDoYUgNlU \
 
 ### 1.jpg
 Can solve
-![](https://github.com/austinloh/Python3/blob/main/CNN/SudokuSolver/Unknown-2.png)
+![](https://github.com/austinloh/Python3/blob/main/CNN/SudokuSolver/Unknown-3.png)
 
 ### 2.jpg
 Can solve
-![](https://github.com/austinloh/Python3/blob/main/CNN/SudokuSolver/Unknown-2.png)
+![](https://github.com/austinloh/Python3/blob/main/CNN/SudokuSolver/Unknown-4.png)
 
 ### 3.jpeg
 Unable to solve. Wrond detection of digits in puzzle. Might need to process the individual boxes and get the digit contour instead of just using the whole box
