@@ -3,6 +3,7 @@ Uses OpenCV to read and process image containing sudoku puzzle. CNN model then u
 Using google colab to run as M1 Macbook as tensorflow not supported \
 
 Credits to https://www.youtube.com/watch?v=qOXDoYUgNlU \
+Overall flow: Read image -> grayscale -> gaussian blur -> threshold -> find contours -> select biggest contour -> find transformation matrix -> warp perspective -> split boxes -> predict digits -> solve sudoku -> inverse warp perspective -> overlay
 
 ### 1.jpg
 Can solve
