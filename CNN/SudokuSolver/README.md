@@ -14,5 +14,6 @@ Can solve
 ![](https://github.com/austinloh/Python3/blob/main/CNN/SudokuSolver/Unknown-4.png)
 
 ### 3.jpeg
-Unable to solve. Wrond detection of digits in puzzle. Might need to process the individual boxes and get the digit contour instead of just using the whole box
+Unable to solve. Wrond detection of digits in puzzle. Might need to process the individual boxes and get the digit contour instead of just using the whole box.
+Can check this out. https://becominghuman.ai/part-3-solving-the-sudoku-ai-solver-13f64a090922
 ![](https://github.com/austinloh/Python3/blob/main/CNN/SudokuSolver/Unknown-2.png)
